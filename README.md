@@ -1,5 +1,5 @@
 # AE_PixelSorter
-This is a self-implementation of pixel sorter.
+This AE plugin is a self-implementation of pixel sorter.
 
 So, the function may be different from the original one.
 
